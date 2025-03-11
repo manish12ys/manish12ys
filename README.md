@@ -30,6 +30,10 @@ As a beginner, I'm still working on small projects, but here are a few things I'
 - 💡 I want to continue learning and improving my skills in **Python**, **web development**, and **databases**.
 - 🚀 I hope to contribute to open-source projects and work on more complex programming challenges in the future.
 
+## Snake Animation
+
+![Snake animation](https://github.com/manish12ysthis/manish12ysthis/blob/output/github-contribution-grid-snake.svg)
+
 ## How to Reach Me
 
 Feel free to reach out if you have any questions or would like to collaborate!
