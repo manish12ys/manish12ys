@@ -22,17 +22,7 @@
 
 ---
 
-## 🚀 Projects:
-### 1. **Personal Portfolio Website**:
-A simple portfolio to showcase my skills, built using **HTML** and **CSS**.
 
-### 2. **Python Automation Scripts**:
-- Automated basic tasks like file management and simple data processing.
-  
-### 3. **Database Projects**:
-- Built a **student management system** using **SQL** and **SQLite** to practice CRUD operations.
-
----
 
 ## 🎯 My Goals:
 - **Short-term**: Improve my skills in **Python** and work on more web development projects.
