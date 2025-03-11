@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 # Snake Animation
 
-![Snake animation](https://github.com/[your-username]/[your-username]/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/manish12ysthis/manish12ysthis/blob/output/github-contribution-grid-snake.svg)
