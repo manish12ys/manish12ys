@@ -1,4 +1,4 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<img src="https://avatars.githubusercontent.com/u/192802094?v=4" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm Manish, a CSE Student 👋🏼:
 🛜 Currently working on my own [portfolio](#) <br>
