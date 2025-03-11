@@ -1,4 +1,4 @@
-
+<img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm Manish, a CSE Student 👋🏼:
 🛜 Currently working on my own [portfolio](#) <br>
@@ -39,6 +39,13 @@ A simple portfolio to showcase my skills, built using **HTML** and **CSS**.
 - **Medium-term**: Explore more about databases and build small-scale applications.
 - **Long-term**: Contribute to open-source projects and gain more experience in full-stack development.
 
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manish12ys/manish12ys/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manish12ys/manish12ys/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/manish12ys/manish12ys/output/github-snake.svg" />
+</picture>
 
 ---
 
