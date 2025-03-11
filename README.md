@@ -15,7 +15,7 @@
 ---
 
 ## 📝 Skills:
-- **Python**: Working on automation, data manipulation, and AI/ML basics.
+- **Python**: Basic.
 - **Web Development**: Creating websites using **HTML** and **CSS**.
 - **Databases**: Learning and working with **SQL** and **SQLite** for data storage and management.
 - **Version Control**: Basic usage of **Git** and **GitHub**.
