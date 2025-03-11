@@ -39,10 +39,6 @@ A simple portfolio to showcase my skills, built using **HTML** and **CSS**.
 - **Medium-term**: Explore more about databases and build small-scale applications.
 - **Long-term**: Contribute to open-source projects and gain more experience in full-stack development.
 
----
-
-## 🐍 Snake Animation
-![Snake animation](https://github.com/manish12ysthis/manish12ysthis/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
