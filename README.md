@@ -38,7 +38,7 @@
 </picture>
 
 ---
-[![roadmap.sh](https://roadmap.sh/card/wide/67e32b39b117aa239d298a97?variant=light)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/67e32b39b117aa239d298a97?variant=dark)](https://roadmap.sh)
 ---
 ## 📫 How to Reach Me:
 - 📧 Email: [manishchowdary2006@gmail.com](mailto:manishchowdary2006@gmail.com)
