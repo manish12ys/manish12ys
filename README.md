@@ -44,4 +44,4 @@
 - 📧 Email: [manishchowdary2006@gmail.com](mailto:manishchowdary2006@gmail.com)
 - 🔗 LinkedIn: [Manish Yepuri](https://www.linkedin.com/in/manish-yepuri-471940281/)
 
-Thanks for visiting my GitHub! 😊
+Thanks for visiting my GitHub! 😊🙂
