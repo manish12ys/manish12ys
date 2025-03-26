@@ -38,7 +38,9 @@
 </picture>
 
 ---
+https://roadmap.sh/card/wide/67e32b39b117aa239d298a97?variant=dark 
 
+--
 ## 📫 How to Reach Me:
 - 📧 Email: [manishchowdary2006@gmail.com](mailto:manishchowdary2006@gmail.com)
 - 🔗 LinkedIn: [Manish Yepuri](https://www.linkedin.com/in/manish-yepuri-471940281/)
